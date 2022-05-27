@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+.home {
+    display: flex;
+    flex-direction: column;
+    width: 100%;                 /* For larger screens */
+             /* It will give margin on both side depending upon how much space it has  */
+}
